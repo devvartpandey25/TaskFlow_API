@@ -65,4 +65,3 @@ Postman collection available in `/postman`
 * Can evolve into microservices
 
 
-Dev
